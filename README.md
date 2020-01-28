@@ -1,6 +1,7 @@
 ShootR
 ======
 
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/ShootR)](https://repl.it/github/UzayAnil/ShootR)
 Multiplayer space ship game powered by [SignalR] (http://www.asp.net/signalr) and [EndGate] (http://endgate.net/).
 
 To play ShootR visit http://shootr.signalr.net/.
